@@ -1,0 +1,13 @@
+validating inputs
+-Angular form validation
+     1.template driven form
+     2.model driven form -ts
+       2.1-Reactive form
+         -form group
+         -array
+         -controller
+
+
+
+
+  npm i -to install node packages module while cloning angular project
